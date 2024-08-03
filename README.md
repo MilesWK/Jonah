@@ -31,4 +31,5 @@ By using Jonah, you agree to his [Terms of Service](https://jonah-bot.glitch.me/
 - Jack F.
 
 Having issues? Check out the [Jonah Status Page](https://jonah-bot.glitch.me/status.html) and submit an error there!
+
 Wanna talk? Check out the [Jonah Discussions Page](https://github.com/MilesWK/Jonah/discussions)!
