@@ -25,5 +25,10 @@ By using Jonah, you agree to his [Terms of Service](https://jonah-bot.glitch.me/
 - 🤖 Bot AI: Google AI
 - 🐷 Bot Code and Maintainer: [MilesWK](https://mileswk.glitch.me/)
 - 🖥️ Website design: MilesWK & [Tiago Rangel](https://tiagorangel.com/)
+  
+**Testers:**
+- West J.
+- Jack F.
 
 Having issues? Check out the [Jonah Status Page](https://jonah-bot.glitch.me/status.html) and submit an error there!
+Wanna talk? Check out the [Jonah Discussions Page](https://github.com/MilesWK/Jonah/discussions)!
