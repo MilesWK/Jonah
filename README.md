@@ -11,6 +11,8 @@ Jonah also has three slash commands:
 - `/information` - Gives information about the bot.
 - `/me` - Gives detailed information about you.
 - `/nuke [Optional: amount]` - This command allows administrators to remove all or a certain amount of messages from a channel. *Note: This only works in a server*
+- `/joke` - Tells you a random joke
+- `/dm` - Starts a DM channel with you
 
 **How to get Jonah 🐖:**
 To get Jonah into your server, go through [his website](https://jonah-bot.glitch.me/) or use the [Discord Link](https://discord.com/oauth2/authorize?client_id=1259943425948520598&permissions=8&integration_type=0&scope=bot).
