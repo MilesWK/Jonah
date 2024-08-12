@@ -2,7 +2,7 @@
 name: Bug report
 about: Found a bug? Report it here!
 title: Quick Description of issue (e.g. bot will not respond)
-labels: ''
+labels: bug
 assignees: MilesWK
 
 ---
