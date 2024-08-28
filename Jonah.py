@@ -35,7 +35,7 @@ By using Jonah, you agree to the privacy policy (https://jonah-bot.glitch.me/pri
 
 Have a question? Want to share your Jonah experience? Check out the Jonah Discussion page: https://github.com/MilesWK/Jonah/discussions
 -------------
-Updated 2024, MilesK
+Updated 2024, MilesWK
 """
 
 
