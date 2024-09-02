@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://cdn.glitch.global/7e351a6e-1e4c-44a9-ba28-5fce830837a3/icon%20(1).png?v=1720983165284" />
+
+    <title>One Last Thing * Jonah - Your Discord AI friend</title>
+   
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <section class="cta">
+      <span class="emoji">🫸</span>
+    <h1>
+      Wait!
+      </h1>
+      <p>
+      One last thing...
+      </p>
+      <a href="/" class="btn">Go home</a>
+      <a href="#faq" class="bottom">-&gt;</a>
+    </section>
+    <section class="faq" id="faq">
+      <p>
+      By using Jonah, you agree to the <a href="jonah-bot.glitch.me/privacy.html">Privacy Policy</a> and <a href="jonah-bot.glitch.me/terms.html">Terms of Service</a> information. Any code related to Jonah in any way is under the <a href="https://github.com/MilesWK/Jonah?tab=MIT-1-ov-file">MIT Code license</a>.<br /><br /><p>
+      Also, there is a community for Jonah for anyone on GitHub! View the discussions forum <a href="https://github.com/MilesWK/Jonah/discussions">here</a>. For information on the development status of Jonah, and many other things including updates, check out the <a href="https://github.com/MilesWK/Jonah/">Jonah Github Repository!</a><br /><br />Okay, that's all from me! Have fun using Jonah! 🐷<br /><br /><div id="homelink">
+      
+      </div>
+      </p>
+
+      </p>
+    </section>
+
+
+  </body>
+ <script>
+      const url = new URL(window.location.href);
+      let guild_id = url.searchParams.get('guild_id');
+      console.log(`https://discord.com/channels/${guild_id}`)
+      document.getElementById("homelink").innerHTML = `<a class="home" id="homebutton" href="https://discord.com/channels/${guild_id}" style="text-align: center;">Ready to go to Discord?</a>`
+    </script>
+</html>
