@@ -2,19 +2,20 @@ TERMS OF SERVICE - JONAH: AI DISCORD BOT
 Effective: 11/09/2024
 Written by MilesWK
 
-I. Special definitons. 
-   1. Any mention of "Discord" is directly reffering to "Discord LLC." They do not endorse or support the Jonah AI Discord Bot. 
+I. Special definitions. 
+   1. Any mention of "Discord" is directly referring to "Discord LLC." They do not endorse or support the Jonah AI Discord Bot. 
    2. Any mention of "the bot," "Jonah," or "it," is referring to the Jonah AI Discord bot. 
-   3. Any mention of "the creator" is directly refrencing MilesWK, the creator of the Jonah AI Discord bot. 
-   4. Any refrense to "AI" stands for "Artificial intelligence."
+   3. Any mention of "the creator" is directly referencing MilesWK, the creator of the Jonah AI Discord bot. 
+   4. Any reference to "AI" stands for "Artificial intelligence."
 
 II. TERMS OF SERVICE.
     1. By using Jonah, you agree to these terms in conditions listed in this file. There are no exceptions to the environments mentioned in this file. 
-    2. Jonah is a bot developed by an independant programmer. The code is not monitored or approved by Discord. NO LEGAL action may be taken against Discord related to Jonah. 
-       Discord has not confirmed that they have read or agreed to the Terms of Service, Privacy Policy, or Code of Conduct directly related to, and create for, the Jonah bot.
-    3. No legal action may be taken against MilesWK or Tiago Rangel, the one who helped create the website, over the actions or results of using the Jonah bot. You are soley 
-       responsible for the misuse of AI. While Google LLC, the creator of the AI API (Application Programming Interface) has taken some measures to keep misuse to a minuimum,
+    2. Jonah is a bot developed by an independent programmer. The code is not monitored or approved by Discord. NO LEGAL action may be taken against Discord related to Jonah. 
+       Discord has not confirmed that they have read or agreed to the Terms of Service, Privacy Policy, or Code of Conduct directly related to, and created for, the Jonah bot.
+    3. No legal action may be taken against MilesWK or Tiago Rangel, the one who helped create the website, over the actions or results of using the Jonah bot. You are solely 
+       responsible for the misuse of AI. While Google LLC, the creator of the AI API (Application Programming Interface) has taken some measures to keep misuse to a minimum,
        these are not perfect and thus might fail. No legal action may be taken against Google LLC when using this bot over the misuse of the AI. 
 
     CONCLUSION
     No legal action may be taken against MilesWK, Tiago Rangel, Discord LLC, or Google LLC over the Jonah AI Discord Bot. 
+
