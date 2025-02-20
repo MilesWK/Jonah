@@ -1,11 +1,11 @@
-![A Banner Depecting Jonah!](https://github.com/user-attachments/assets/44382446-43b2-46da-a74a-03023897210e)
+![Jonah - Banner](https://github.com/user-attachments/assets/7f422255-1dd5-4994-a610-5e2a2ce4a64f)
+
 ------ 
 **What is Jonah? 🐷**
 Jonah is a piggy AI discord bot that allows user to interact with the AI by talking in a direct message or mentioning (@) it in a server setting: 
 
-![image](https://github.com/user-attachments/assets/09310d87-47b9-4d17-bb4b-387471444932)
+![A picture of a message sent to Jonah.](https://github.com/user-attachments/assets/7988a0cb-cc99-44a8-90b5-7e7de9854414)
 
-![image](https://github.com/user-attachments/assets/873054f6-d46b-48f9-8842-6c5c325b4560)
 
 Jonah also has six slash commands: 
 - `/information` - Gives information about the bot.
